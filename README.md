@@ -4,6 +4,6 @@
 
 *énfasis* (cursiva)
 
- **énfasis fuerte** (negrita)
+ 
 
 Prueba
